@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @adimogli2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-adimogli2/adimogli2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in developing software leveraging Python, Kotlin, and Java languages, with a keen focus on applying Artificial Intelligence and Machine Learning methods to autonomous cars. My projects range from creating a flashcard system to enhance learning experiences to writing software for autonomous car control.
+- 🌱 I’m currently learning at Northeastern University, pursuing a Bachelor of Science in Computer Science with a concentration in Artificial Intelligence. My coursework includes Fundamentals of Computer Science, Discrete Structures, and Mathematics of Data Models.
+- 💞️ I’m looking to collaborate on projects related to AI and ML, especially those that advance autonomous vehicle technologies or innovative learning tools. I'm excited to engage in discussions, contribute to software development, and share insights on AI applications in real-world scenarios.
+- 📫 How to reach me: Feel free to connect with me on [LinkedIn](linkedin.com/in/aditya-mogli) or email me at adimogli2@gmail.com for collaborations, discussions, or any opportunities where we can learn and grow together.
