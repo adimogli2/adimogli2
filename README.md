@@ -15,11 +15,8 @@
 
  **<h3 align="center">Passionate fullstack web developer, creating robust and scalable web applications. Especially skilled in back-end technologies, with a keen eye for artificial intelligence and self-driving cars.</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+**<h3 align="left"></h3>**
 
-- 💼 I'm currently working on: **💻 Developing embedded firmware for the Northeastern Electric Racing team**
-- 🌱 I'm currently learning: **📚 Machine Learning and Data Mining, Cybersecurity, Digital Design and Computer Architecture**
-- 💬 Ask me about: **💡 Java, Python, AWS, CI/CD, and RESTful APIs**
 
 <h3 align="left">Skills</h3>
 
